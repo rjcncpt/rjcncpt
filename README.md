@@ -11,9 +11,9 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=rjcncpt&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rjcncpt&theme=synthwave&hide_border=true)
+<p align="center">Damit sich niemand mehr die Zunge bricht, rjcncpt steht für rj concept :P</p>
 
 </div>
 
 ----
 <div align="center">Proudly created with GPRM ( https://gprm.itsvg.in )</div>
-<p align="center">Damit sich niemand mehr die Zunge bricht, rjcncpt steht für rj concept :P</p>
