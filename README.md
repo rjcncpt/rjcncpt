@@ -10,3 +10,4 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">Damit sich niemand mehr die Zunge bricht, rjcncpt steht für rj concept :P</p>
