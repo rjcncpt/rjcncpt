@@ -7,9 +7,12 @@
 </div>  
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=rjcncpt&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=rjcncpt&theme=synthwave&hide_border=true)
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=rjcncpt&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rjcncpt&theme=synthwave&hide_border=true)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rjcncpt&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+</div>
 
 ----
 <div align="center">Proudly created with GPRM ( https://gprm.itsvg.in )</div>
