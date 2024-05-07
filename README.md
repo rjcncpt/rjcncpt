@@ -5,7 +5,7 @@
   
   ## Aktuelles Projekt - Star Citizen in Deutsch
   
-  <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI"><img src="https://i.imgur.com/a3oae9m.jpeg" alt="Star Citizen in Deutsch" /></a>
+  <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI"><img src="https://i.imgur.com/WAP6UNa.png" alt="Star Citizen in Deutsch" /></a>
 
   <br/><br/>
   <a href="https://www.fwkart.de/star-citizen-free-fly-kostenlos-testen-spielen/" target="_blank"><img src="https://img.shields.io/badge/webseite-%23ff008b.svg?&style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Webseite" /></a>  <a href="https://www.youtube.com/@fatcatgg" target="_blank"><img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>  <a href="https://paypal.me/fwkart" target="_blank"><img src="https://img.shields.io/badge/donate%20paypal-%23007ec6.svg?&style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" /></a>
