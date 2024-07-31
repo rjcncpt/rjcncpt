@@ -1,9 +1,8 @@
-<div align="center"><img width="150" src="https://i.imgur.com/gwYNDTY.png"/>
+<div align="center">
 <h1 align="center">René Jansen</h1>
-<p align="center">Hey!<br/>
-  Willkommen auf meinem bescheidenen GitHub Profil.<br/>Ich bin 82er Baujahr und Grafik- und Webdesigner aus Dresden.</p><br/>
+<p align="center">Hey! Willkommen auf meinem bescheidenen GitHub Profil.<br/>Ich bin 82er Baujahr und Grafik- und Webdesigner aus Dresden.</p><br/>
   
-  ## Aktuelles Projekt - Star Citizen in Deutsch
+  ### Aktuelles Projekt - Star Citizen in Deutsch
   
   <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI"><img src="https://i.imgur.com/WAP6UNa.png" alt="Star Citizen in Deutsch" /></a>
 
